@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.tituloPrin {
+    color: darkblue;
+    font-size:400%;
+} 
+.Opciones {
+    color: gray;
+}
+.Op1 .Op2 .Op3 .Op4 .Op5 {
+    text-align: left;
+    margin: 15%;
+}
+.cuadroIzq {
+    float:left;
+    margin-right: 15px;
+}
+.Titulos {
+    color: skyblue;
+}
+.subTitulos {
+    color: blue;
+}
+.Location {
+    margin-right: -30px;
+    color: grey;
+    float: right;
+}
+.Date {
+    margin-left: -30px;
+    color: grey;
+    float: right;
+}
+
+.Vaccine {
+    color: grey;
+    margin: 15px;
+}
+.Viruses {
+    float: left;
+    margin: 15px;
+}
+.Forming {
+    float: left;
+    margin: 15px;
+}
+.Protecting {
+    float: left;
+    margin: 15px;
+}
+.Creating {
+    margin-bottom: 35px;
+}
+.Call {
+    float: left;
+}
+.Chat {
+    float: left;
+    height: 50%;
+    width: 50%;
+    margin-left: 50px;
+}
+.callNow {
+    margin-right: 500px;
+    float: left ;
+}
+.chatNow {
+    margin-left: -450px;
+    margin-bottom: 500%;
+    float: left;
+}
